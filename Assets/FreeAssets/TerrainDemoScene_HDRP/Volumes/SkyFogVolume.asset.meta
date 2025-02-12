@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 754e77390c665204d98d2cdb7a087f5d
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 213198
+  packageName: Unity Terrain - HDRP Demo Scene
+  packageVersion: 1.0.3
+  assetPath: Assets/TerrainDemoScene_HDRP/Volumes/SkyFogVolume.asset
+  uploadId: 727864
