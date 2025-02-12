@@ -13,5 +13,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainDemoScene_HDRP/Scripts/Resources/SceneAnnotation.uxml
+  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Scripts/Resources/SceneAnnotation.uxml
   uploadId: 727864
