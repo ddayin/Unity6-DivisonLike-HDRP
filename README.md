@@ -1,5 +1,5 @@
 # DivisionLike Unity Project Summary
-develop a game like Tom Clancy's The Division by using Unity
+develop a game like Tom Clancy's The Division by using Unity 6
 
 ![image](https://user-images.githubusercontent.com/29808782/179521804-14d527cf-0543-4ddd-bb8e-feed2149be53.png)
 
@@ -42,14 +42,14 @@ https://github.com/user-attachments/assets/cce652bf-2088-4db2-9cc6-4a7fbf413998
 # PC Specification
 - OS : Windows 11 64bit
 - CPU : AMD Ryzen 9 5900X 12-Core
-- RAM : 32GB
+- RAM : 64GB
 - SSD : Samsung SSD 870 QVO 1TB
 - GPU : NVIDIA GeForce RTX 3060
 
-# Development Tools (02/08/2024)
-- Engine : Unity 2023.2.61f1
+# Development Tools (02/13/2025)
+- Engine : Unity 6000.0.35f1
 - Language : C#
-- IDE : Jetbrains Rider 2023.3.3
+- IDE : Visual Studio 2022 Community
 
 # Player Character
 - Player.cs : 플레이어의 component들을 가지고 있다.
