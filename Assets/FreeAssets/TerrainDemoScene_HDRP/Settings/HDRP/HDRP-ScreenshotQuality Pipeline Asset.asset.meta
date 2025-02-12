@@ -11,6 +11,6 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainDemoScene_HDRP/Settings/HDRP/HDRP-ScreenshotQuality Pipeline
-    Asset.asset
+  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Settings/HDRP/HDRP-ScreenshotQuality
+    Pipeline Asset.asset
   uploadId: 727864

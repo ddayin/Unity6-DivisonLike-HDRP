@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/TerrainDemoScene_HDRP/Settings/DiffusionProfiles/Dead_Grass.asset
+  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Settings/DiffusionProfiles/Dead_Grass.asset
   uploadId: 727864
