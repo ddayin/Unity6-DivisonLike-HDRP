@@ -1,8 +1,7 @@
 fileFormatVersion: 2
-guid: a45c8aa0a15f33540838ca322c304be3
-NativeFormatImporter:
+guid: ed5c606f25b650d42a5d09c6707ec94c
+TextScriptImporter:
   externalObjects: {}
-  mainObjectFileID: 11400000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
@@ -11,5 +10,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Animation/TerrainDemo_Main.playable
+  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Notes/SkyboxAssets.txt
   uploadId: 727864

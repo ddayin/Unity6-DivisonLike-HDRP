@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: a45c8aa0a15f33540838ca322c304be3
+guid: 2e0ca741480172440a46302f4d487d71
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 11400000
@@ -11,5 +11,5 @@ AssetOrigin:
   productId: 213198
   packageName: Unity Terrain - HDRP Demo Scene
   packageVersion: 1.0.3
-  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/Animation/TerrainDemo_Main.playable
+  assetPath: Assets/FreeAssets/TerrainDemoScene_HDRP/LensFlares/LensFlarePresets/GulleyShot_Flare.asset
   uploadId: 727864
